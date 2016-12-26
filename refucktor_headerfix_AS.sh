@@ -5,7 +5,7 @@ do
 {
 echo '//
 //  '${fn##*/}'
-//  '#{PWD##*/}'
+//  '${PWD##*/}'
 //
 //  Created by Stanislav Pletnev on '$(date -r $(stat -f%B $fn) +%Y-%m-%d)'
 //  Copyright © 2016 Anobisoft. All rights reserved.
