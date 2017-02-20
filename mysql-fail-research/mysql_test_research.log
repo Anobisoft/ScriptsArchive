@@ -1,0 +1,147 @@
+2013-12-02 10:53:43 MSK	dem-srv-mysql-cmoh	Aborted_connects 1
+2013-12-02 10:53:43 MSK	dem-srv-mysql-ups	Aborted_connects 10680
+2013-12-02 10:53:43 MSK	dem-srv-mysql-mcinema	Aborted_connects 1
+2013-12-02 10:53:43 MSK	dem-srv-mysql-mtsgames	Aborted_connects 15296
+2013-12-02 10:53:43 MSK	dem-srv-mysql-pulse	Aborted_connects 5589
+2013-12-02 10:53:43 MSK	dem-srv-mysql-mtscity	Aborted_connects 1088
+2013-12-02 10:53:44 MSK	dem-srv-mysql-omlet	Aborted_connects 1060
+2013-12-02 10:53:44 MSK	dem-srv-mysql-subs	Aborted_connects 88
+2013-12-02 10:53:44 MSK	dem-srv-mysql-vstream	Aborted_connects 11
+2013-12-02 10:53:44 MSK	dem-srv-mysql-wurfl	Aborted_connects 37971
+2013-12-03 05:09:25 MSK	dem-srv-mysql-mtscity	ERROR 2003 (HY000): Can't connect to MySQL server on 'dem-srv-mysql-mtscity' (113)
+2013-12-03 05:09:33 MSK	dem-srv-mysql-mtscity	ERROR 2003 (HY000): Can't connect to MySQL server on 'dem-srv-mysql-mtscity' (113)
+2013-12-03 05:09:41 MSK	dem-srv-mysql-mtscity	ERROR 2003 (HY000): Can't connect to MySQL server on 'dem-srv-mysql-mtscity' (113)
+2013-12-03 05:09:49 MSK	dem-srv-mysql-mtscity	ERROR 2003 (HY000): Can't connect to MySQL server on 'dem-srv-mysql-mtscity' (113)
+2013-12-03 05:15:57 MSK	dem-srv-mysql-mtscity	ERROR 2003 (HY000): Can't connect to MySQL server on 'dem-srv-mysql-mtscity' (110)
+2013-12-03 05:17:05 MSK	dem-srv-mysql-mtscity	ERROR 2003 (HY000): Can't connect to MySQL server on 'dem-srv-mysql-mtscity' (110)
+2013-12-04 04:47:57 MSK	dem-srv-mysql-mtscity	ERROR 2003 (HY000): Can't connect to MySQL server on 'dem-srv-mysql-mtscity' (113)
+2013-12-04 04:48:05 MSK	dem-srv-mysql-mtscity	ERROR 2003 (HY000): Can't connect to MySQL server on 'dem-srv-mysql-mtscity' (113)
+2013-12-04 04:48:13 MSK	dem-srv-mysql-mtscity	ERROR 2003 (HY000): Can't connect to MySQL server on 'dem-srv-mysql-mtscity' (113)
+2013-12-04 04:48:21 MSK	dem-srv-mysql-mtscity	ERROR 2003 (HY000): Can't connect to MySQL server on 'dem-srv-mysql-mtscity' (113)
+2013-12-04 19:51:43 MSK	dem-srv-mysql-mtsgames	Aborted_connects 15297
+2013-12-05 05:11:03 MSK	dem-srv-mysql-mtscity	ERROR 2003 (HY000): Can't connect to MySQL server on 'dem-srv-mysql-mtscity' (113)
+2013-12-05 05:11:11 MSK	dem-srv-mysql-mtscity	ERROR 2003 (HY000): Can't connect to MySQL server on 'dem-srv-mysql-mtscity' (113)
+2013-12-05 05:11:19 MSK	dem-srv-mysql-mtscity	ERROR 2003 (HY000): Can't connect to MySQL server on 'dem-srv-mysql-mtscity' (113)
+2013-12-05 05:11:27 MSK	dem-srv-mysql-mtscity	ERROR 2003 (HY000): Can't connect to MySQL server on 'dem-srv-mysql-mtscity' (113)
+2013-12-05 05:11:35 MSK	dem-srv-mysql-mtscity	ERROR 2003 (HY000): Can't connect to MySQL server on 'dem-srv-mysql-mtscity' (113)
+2013-12-05 05:11:43 MSK	dem-srv-mysql-mtscity	ERROR 2003 (HY000): Can't connect to MySQL server on 'dem-srv-mysql-mtscity' (113)
+2013-12-05 05:11:51 MSK	dem-srv-mysql-mtscity	ERROR 2003 (HY000): Can't connect to MySQL server on 'dem-srv-mysql-mtscity' (113)
+2013-12-05 05:20:24 MSK	dem-srv-mysql-mtscity	ERROR 2003 (HY000): Can't connect to MySQL server on 'dem-srv-mysql-mtscity' (113)
+2013-12-05 05:20:32 MSK	dem-srv-mysql-mtscity	ERROR 2003 (HY000): Can't connect to MySQL server on 'dem-srv-mysql-mtscity' (113)
+2013-12-05 11:18:57 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:19:02 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:19:07 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:19:12 MSK	dem-srv-mysql-cmoh	ERROR 1040 (HY000): Too many connections
+2013-12-05 11:19:17 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:19:22 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:19:27 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:19:32 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:19:37 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:19:42 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:19:47 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:19:52 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:19:57 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:20:02 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:20:07 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:20:12 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:20:17 MSK	dem-srv-mysql-cmoh	ERROR 1040 (HY000): Too many connections
+2013-12-05 11:20:22 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:20:27 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:20:32 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:20:38 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:20:43 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:20:48 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:20:53 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:20:58 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:21:03 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:21:08 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:21:13 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:21:18 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:21:23 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:21:28 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:21:33 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:21:38 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:21:43 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:21:48 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:21:53 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:21:58 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:22:03 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:22:08 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:22:13 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:22:18 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:22:23 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:22:28 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:22:33 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:22:38 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:22:43 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:22:48 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:22:53 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:22:58 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:23:03 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:23:08 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:23:13 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:23:18 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:23:23 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:23:28 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:23:33 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:23:38 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:23:43 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:23:48 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:23:53 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:23:58 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:24:03 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:24:08 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:24:13 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:24:18 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:24:23 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:24:28 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:24:33 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:24:38 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:24:43 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:24:48 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:24:53 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:24:58 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:25:04 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:25:09 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:25:14 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:25:19 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:25:24 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:25:29 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:25:34 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 11:25:39 MSK	dem-srv-mysql-cmoh	ERROR 1040 (08004): Too many connections
+2013-12-05 13:00:58 MSK	dem-srv-mysql-subs	Aborted_connects 89
+2013-12-06 06:23:38 MSK	dem-srv-mysql-wurfl	ERROR 2003 (HY000): Can't connect to MySQL server on 'dem-srv-mysql-wurfl' (110)
+2013-12-06 07:34:55 MSK	dem-srv-mysql-mtscity	ERROR 2003 (HY000): Can't connect to MySQL server on 'dem-srv-mysql-mtscity' (113)
+2013-12-06 09:11:46 MSK	dem-srv-mysql-wurfl	Aborted_connects 37972
+2013-12-06 11:42:49 MSK	dem-srv-mysql-wurfl	Aborted_connects 37973
+2013-12-07 09:43:54 MSK	dem-srv-mysql-wurfl	ERROR 2003 (HY000): Can't connect to MySQL server on 'dem-srv-mysql-wurfl' (110)
+2013-12-07 09:52:11 MSK	dem-srv-mysql-pulse	Aborted_connects 5647
+2013-12-07 10:03:26 MSK	dem-srv-mysql-pulse	Aborted_connects 5650
+2013-12-07 10:04:44 MSK	dem-srv-mysql-pulse	ERROR 2003 (HY000): Can't connect to MySQL server on 'dem-srv-mysql-pulse' (113)
+2013-12-07 21:32:54 MSK	dem-srv-mysql-mtsgames	ERROR 1040 (08004): Too many connections
+2013-12-07 21:33:00 MSK	dem-srv-mysql-mtsgames	ERROR 1040 (08004): Too many connections
+2013-12-07 21:33:05 MSK	dem-srv-mysql-mtsgames	ERROR 1040 (08004): Too many connections
+2013-12-07 21:34:10 MSK	dem-srv-mysql-mtsgames	Aborted_connects 16841
+2013-12-07 21:35:10 MSK	dem-srv-mysql-mtsgames	Aborted_connects 18625
+2013-12-07 21:36:10 MSK	dem-srv-mysql-mtsgames	Aborted_connects 18626
+2013-12-08 05:28:13 MSK	dem-srv-mysql-mtscity	ERROR 2003 (HY000): Can't connect to MySQL server on 'dem-srv-mysql-mtscity' (113)
+2013-12-08 05:48:12 MSK	dem-srv-mysql-mtscity	Aborted_connects 1089
+2013-12-08 12:19:06 MSK	dem-srv-mysql-ups	ERROR 1040 (08004): Too many connections
+2013-12-08 12:19:11 MSK	dem-srv-mysql-ups	ERROR 1040 (08004): Too many connections
+2013-12-08 12:20:16 MSK	dem-srv-mysql-ups	ERROR 1040 (HY000): Too many connections
+2013-12-08 12:20:22 MSK	dem-srv-mysql-ups	ERROR 1040 (08004): Too many connections
+2013-12-08 12:20:27 MSK	dem-srv-mysql-ups	ERROR 1040 (08004): Too many connections
+2013-12-08 12:20:32 MSK	dem-srv-mysql-ups	ERROR 1040 (HY000): Too many connections
+2013-12-08 12:21:37 MSK	dem-srv-mysql-ups	ERROR 1040 (08004): Too many connections
+2013-12-08 12:22:42 MSK	dem-srv-mysql-ups	Aborted_connects 18012
+2013-12-09 04:25:53 MSK	dem-srv-mysql-pulse	ERROR 2003 (HY000): Can't connect to MySQL server on 'dem-srv-mysql-pulse' (113)
+2013-12-09 04:48:53 MSK	dem-srv-mysql-mtscity	ERROR 2003 (HY000): Can't connect to MySQL server on 'dem-srv-mysql-mtscity' (113)
+2013-12-09 04:49:01 MSK	dem-srv-mysql-mtscity	ERROR 2003 (HY000): Can't connect to MySQL server on 'dem-srv-mysql-mtscity' (113)
+2013-12-09 04:56:21 MSK	dem-srv-mysql-mtscity	ERROR 2003 (HY000): Can't connect to MySQL server on 'dem-srv-mysql-mtscity' (113)
+2013-12-09 04:56:29 MSK	dem-srv-mysql-mtscity	ERROR 2003 (HY000): Can't connect to MySQL server on 'dem-srv-mysql-mtscity' (113)
+2013-12-09 04:56:37 MSK	dem-srv-mysql-mtscity	ERROR 2003 (HY000): Can't connect to MySQL server on 'dem-srv-mysql-mtscity' (113)
+2013-12-09 04:56:45 MSK	dem-srv-mysql-mtscity	ERROR 2003 (HY000): Can't connect to MySQL server on 'dem-srv-mysql-mtscity' (113)
+2013-12-09 04:56:53 MSK	dem-srv-mysql-mtscity	ERROR 2003 (HY000): Can't connect to MySQL server on 'dem-srv-mysql-mtscity' (113)
+2013-12-09 04:57:01 MSK	dem-srv-mysql-mtscity	ERROR 2003 (HY000): Can't connect to MySQL server on 'dem-srv-mysql-mtscity' (113)
+2013-12-09 09:39:34 MSK	dem-srv-mysql-subs	ERROR 2003 (HY000): Can't connect to MySQL server on 'dem-srv-mysql-subs' (101)
+2013-12-09 09:39:34 MSK	dem-srv-mysql-omlet	ERROR 2003 (HY000): Can't connect to MySQL server on 'dem-srv-mysql-omlet' (101)

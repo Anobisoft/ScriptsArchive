@@ -18,14 +18,14 @@ do
 	then
 		sleeptime=5
 	        date +'%F %X MSK' | tr '\n' '\t' >> mysql_test_research.log
-		echo "srv-mysql-$1" | tr '\n' '\t' >> mysql_test_research.log
+		echo "dem-srv-mysql-$1" | tr '\n' '\t' >> mysql_test_research.log
 		cat mysql_test_$1_error >> mysql_test_research.log
 	else
 		sleeptime=60
 		if [ $res -gt $prev ]
 		then
 			date +'%F %X MSK' | tr '\n' '\t' >> mysql_test_research.log
-			echo "srv-mysql-$1" | tr '\n' '\t' >> mysql_test_research.log
+			echo "dem-srv-mysql-$1" | tr '\n' '\t' >> mysql_test_research.log
 			echo "Aborted_connects $res" >> mysql_test_research.log
 			prev=$res
 		fi 
