@@ -1,0 +1,94 @@
+﻿<config>
+	<email from='pletnev@host.com' subj='Broma %bash%'>
+		<disabled />
+		<bash>date +%B%Y -d "-1 month"</bash>
+		<to>atatat@host.com</to>
+		<cc>pletnev@host.com</cc>
+		<body>
+Здравтсвуйте!
+
+Таблица во вложении.
+
+Это письмо было отправлено автоматически.
+
+С уважением,
+Плетнёв Станислав
+		</body>
+		<attach>
+			<path>/home/sup/scripts/statistics/auto/broma.csv</path>
+			<name>broma_%bash%.xls</name>
+			<csv2xls />
+		</attach>
+	</email>
+
+<!-- ************************************************************************************ -->
+
+	<email from='pletnev@host.com' subj='GLU %bash%'>
+		<bash>date +%B%Y -d "-1 month"</bash>
+		<to>atatat@host.com</to>
+		<cc>pletnev@shamerock-mobile.ru</cc>
+		<body>
+Здравтсвуйте!
+
+Таблица во вложении.
+
+Это письмо было отправлено автоматически.
+
+С уважением,
+Плетнёв Станислав
+		</body>
+		<attach>
+			<path>/home/sup/scripts/statistics/auto/atatat_demo.csv</path>
+			<name>atatat_%bash%.xls</name>
+			<csv2xls />
+		</attach>
+	</email>
+
+<!-- ************************************************************************************ -->
+
+	<email from='pletnev@host.com' subj='Ololo %bash%'>
+		<bash>date +%B%Y -d "-1 month"</bash>
+		<to>atatat@host.com</to>
+		<cc>pletnev@host.com</cc>
+		<body>
+Здравтсвуйте!
+
+Таблица во вложении.
+
+Это письмо было отправлено автоматически.
+
+С уважением,
+Плетнёв Станислав
+		</body>
+		<attach>
+			<path>/home/sup/scripts/statistics/auto/msisdn.csv</path>
+			<name>msisdn_%bash%.xls</name>
+			<csv2xls />
+		</attach>
+	</email>
+
+<!-- ************************************************************************************ -->
+
+	<email from="pletnev@host.com" subj="Try&amp;Bay %bash%">
+		<bash>date +%B%Y -d "-1 month"</bash>
+		<to>atatat@host.com</to>
+		<cc>pletnev@host.com</cc>
+		<body>
+Здравтсвуйте!
+
+Таблица во вложении.
+
+Это письмо было отправлено автоматически.
+
+С уважением,
+Плетнёв Станислав
+		</body>
+		<attach>
+			<path>/home/sup/scripts/statistics/auto/try-n-buy.csv</path>
+			<name>try-n-buy_%bash%.xls</name>
+			<csv2xls />
+		</attach>
+	</email>
+
+</config>
+

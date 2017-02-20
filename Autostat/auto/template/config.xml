@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+	<email from="template_script@host.com" subj="Тест1">
+		<to>pletnev@host.com</to>
+		<cc>pletnev@host.com</cc>
+		<body>
+Первое письмо
+Вторая строка
+		</body>
+
+		<attach>
+			<path>result.csv</path>
+			<name>table1.csv</name>
+		</attach>
+		<attach>
+			<path>/home/sup/scripts/statistics/auto/sendmail.php</path>
+			<name>atatat.php</name>
+		</attach>
+
+	</email>
+	
+	<email from="atatat@host.com" subj="Тест_%bash%">
+		<bash>date +%B%Y -d "-1 month"</bash>
+		<to>pletnev@host.com</to>
+		<body>
+Второе письмо
+		</body>
+
+		<attach>
+			<path>result2.csv</path>
+			<name>test_result_%bash%.xls</name>
+			<toxls />
+		</attach>
+
+	</email>
+</config>
