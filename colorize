@@ -1,0 +1,5 @@
+declare -A color=([Black]='0;30' [Red]='0;31' [Green]='0;32' [Orange]='0;33' [Brown]='0;33' [Yellow]='1;33' [Blue]='0;34' [Purple]='0;35' [Cyan]='0;36' [White]='0;37' [Clear]='0')
+
+[ -s "$@" ] && read x || x=$@
+
+eval $(echo "$x" | sed 's/^/echo -e /; s/<color=\([a-zA-Z]\{1,\}\)>/\\\\e[${color[\1]}m/g; s/<\/color>/\\\\e[${color[Clear]}m/g; s/$/\\\\e[${color[Clear]}m/')
